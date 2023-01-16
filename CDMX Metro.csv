@@ -1,0 +1,39 @@
+﻿Periodo,Longitud en servicio (km)  a,Trenes en servicio  b,Kilómetros recorridos     (Miles de kilómetros),Pasajeros transportados     (Millones de pasajeros)  c,Energía eléctrica consumida     (Miles de KWH)  d
+2020
+Enero,226,277,3998.162,130.708973,81440.397
+Febrero,226,278,3690.752,129.069097,75123.162
+Marzo,226,279,3479.302,107.531899,80617.734
+Abril,226,279,3761.393,41.139457,77783.718
+Mayo,226,272,3873.269,35.899769,80202.53
+Junio,226,272,3854.95,44.780955,79469.039
+Julio,226,272,3991.135,58.756521,83323.989
+Agosto,226,274,3918.133,65.016011,81045.194
+Septiembre,226,274,3776.203,66.219212,78626.38
+Octubre,226,276,3951.933,74.872132,81887.855
+Noviembre,226,272,3733.027,71.089553,77783.718
+Diciembre,226,272,3908.598,69.140763,81440.397
+2021
+Enero  P,226,236,2486.831,41.033642,50883.737
+Febrero,226,196,2617.04,50.436321,51915.633
+Marzo,226,199,2982.05,65.449779,58455.147
+Abril,226,210,2956.525,62.577359,57060.828
+Mayo,226,207,2854.961,62.689975,59520.579
+Junio,201,198,2738.36,63.410819,59950.044
+Julio,201,200,2804.239,69.822069,61772.818
+Agosto,201,201,2817.985,67.964499,61282.94
+Septiembre,201,206,2798.376,70.154247,60330.332
+Octubre,201,206,2899.75,78.122952,63294.911
+Noviembre,201,209,2861.439,78.483883,60225.231
+Diciembre,201,209,2984.24,84.154004,63527.532
+2022
+Enero,201,207,3041.591,70.56367,62796.151
+Febrero,201,207,2738.486,72.052555,56858.935
+Marzo,201,205,3045.789,88.358374,63662.127
+Abril,201,206,2902.263,82.897274,60557.376
+Mayo,201,206,3035.565,91.245641,63662.126
+Junio,201,205,2950.112,88.42403,62082.777
+Julio,201,198,2958.145,80.680662,62925.676
+Agosto,192,200,3037.972,90.184647,66502.02
+Septiembre,192,210,2907.13,88.794502,62843.401
+Octubre,192,212,2970.343,95.09448,64428.915
+"P Cifras preliminares a partir de la fecha en que se indica.    Nota:A partir del 29 de noviembre de 2015, se regularizó el servicio de la línea 12. a Dato no acumulable. b Cifra relativa al número de trenes en operación en día laborable y horario de máxima demanda. c Incluye a los pasajeros con boleto pagado y usuarios de acceso gratuito (personas de la tercera edad, Discapacitados, menores de 5 años y derechohabientes del Sistema de Transporte Colectivo, principalmente).  d Cifras estimadas para tracción, alumbrado y fuerza, por parte de la Coodinación de Control y Operaciones Eléctricas del SCT.Fecha de actualización: Viernes, 16 de Diciembre de 2022"
